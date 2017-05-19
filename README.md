@@ -1,6 +1,8 @@
 # pydatabcn2017
 
-Materials for PyData Barcelona 2017
+Materials for PyData Barcelona 2017.
+
+[`https://github.com/jaimefrio/pydatabcn2017`](https://github.com/jaimefrio/pydatabcn2017)
 
 ## 'Taking NumPy in Stride'
 
