@@ -4,7 +4,7 @@ Materials for PyData Barcelona 2017.
 
 [`https://github.com/jaimefrio/pydatabcn2017`](https://github.com/jaimefrio/pydatabcn2017)
 
-## 'Taking NumPy in Stride'
+## Taking NumPy in Stride
 
  * The materials for the workshop are in the `taking_numpy_in_stride`
    directory.
@@ -14,3 +14,8 @@ Materials for PyData Barcelona 2017.
    solve the exercises yourself.
  * Solutions to all exercises can be found in the 'Taking NumPy In Stride'
    notebook.
+
+## The Secret Life of Rolling Pandas
+
+ * Slides and notebook are in the `the_secret_life_of_rolling_pandas`
+   directory.
